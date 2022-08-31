@@ -1,4 +1,4 @@
-# Brain Tumor Detector
+# DeepCancer, AI for Brain Tumor Detection
 Detect brain tumors precisely and fast. It's accuracy is 94.74% and whole training operation takes only 44 seconds.
 
 +This model uses MobileNetV3 architecture to build a model which can operate both precisely and fast.
