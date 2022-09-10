@@ -1,5 +1,5 @@
 # DeepCancer, AI for Brain Tumor Detection and Segmentation
-Detect and segment brain tumors precisely and fast. It's accuracy is 94.74% in detection and 93% in segmentation so far.
+Detect and segment brain tumors precisely and fast. It's accuracy is 94.74% in detection and 96% in segmentation so far.
 
 +This model uses MobileNetV3 architecture to build a model which can operate both precisely and fast.
 
